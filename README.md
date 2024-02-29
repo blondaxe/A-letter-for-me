@@ -1,4 +1,4 @@
-# A-letter-for-me
+# Time-travel-letter
 
 - A letter for me is an web-site that allows you to write a letter for your future YOU.
 - You can choose your own release date.
